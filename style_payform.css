@@ -1,4 +1,3 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
 .pay__method {
@@ -21,53 +20,53 @@
 
 .icopaymethod-card {
 	background-size: 4em !important;
-	background-image: url(img/card.svg) !important;
+	background-image: url(card.svg) !important;
 }
 
 .icopaymethod-applepay {
 	background-size: 4.05em !important;
-	background-image: url(img/applepay.svg) !important;
+	background-image: url(applepay.svg) !important;
 }
 
 .icopaymethod-samsungpay {
 	background-size: 6.05em !important;
-	background-image: url(img/samsungpay.png) !important;
+	background-image: url(samsungpay.png) !important;
 }
 
 .icopaymethod-googlepay {
 	background-size: 5.2em !important;
-	background-image: url(img/googlepay.svg) !important;
+	background-image: url(googlepay.svg) !important;
 }
 
 .icopaymethod-yandex {
 	background-position: 50% 55% !important;
 	background-size: 5.3em !important;
 	background-repeat: no-repeat !important;
-	background-image: url(img/yoomoney.svg) !important;
+	background-image: url(yoomoney.svg) !important;
 }
 
 .icopaymethod-tele2 {
 	background-size: 3.9em !important;
-	background-image: url(img/tele2.svg) !important;
+	background-image: url(tele2.svg) !important;
 }
 
 .icopaymethod-mf {
 	background-size: 5.26em !important;
-	background-image: url(img/mf.svg) !important;
+	background-image: url(mf.svg) !important;
 }
 
 .icopaymethod-mts {
 	opacity: .9;
 	background-position: 50% 50% !important;
 	background-size: 5em !important;
-	background-image: url(img/mts.svg) !important;
+	background-image: url(mts.svg) !important;
 }
 
 .icopaymethod-qiwi {
 	opacity: .9;
 	background-position: 50% 50% !important;
 	background-size: 5em !important;
-	background-image: url(img/qiwi.png) !important;
+	background-image: url(qiwi.png) !important;
 }
 
 .icopaymethod-card,
